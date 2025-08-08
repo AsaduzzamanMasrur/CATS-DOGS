@@ -1,4 +1,4 @@
-# regression analysis using multiple models
+# Regression analysis using multiple models
 
 This project focuses on building and evaluating various regression models to determine which algorithm performs best on a given dataset. It includes traditional machine learning models and a deep learning model using the Keras Sequential API.
 
